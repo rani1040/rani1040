@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rani1040
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning datastructue 
-- 💞️ I’m looking to participate in contest
+- I am Senior Coding Instructor 
 -  
 
 <!---
